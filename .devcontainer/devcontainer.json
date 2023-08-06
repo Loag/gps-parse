@@ -1,0 +1,23 @@
+{
+  "name": "gps-parse-dev",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/haskell": {},
+    "ghcr.io/jungaretti/features/make": {}
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "telemetry.telemetryLevel": "off",
+        "workbench.colorTheme": "Tokyo Night",
+        "workbench.iconTheme": "material-icon-theme"
+      },
+      "extensions": [
+        "PKief.material-icon-theme",
+        "enkia.tokyo-night",
+        "haskell.haskell",
+        "ms-vscode.makefile-tools"
+      ]
+    }
+  }
+}
