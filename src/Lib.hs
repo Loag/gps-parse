@@ -1,9 +1,10 @@
-module Lib ( someFunc ) where
+{-# LANGUAGE AllowAmbiguousTypes #-}
+{-# LANGUAGE ScopedTypeVariables #-}
 
+module Lib ( parse, getName ) where
+  
 import Prelude
-
-someFunc :: IO ()
-someFunc = putStrLn "someFunc"
+import Data.List.Split
 
 data GPSMessage = 
     GGA { name :: String } 
@@ -13,6 +14,9 @@ data GPSMessage =
   | MSS { name :: String }
   | RMC { name :: String }
   | VTG { name :: String }
+
+getName :: GPSMessage -> String
+getName = name
 
 -- if empty or not starting with a dollar sign, it is not a gps message
 -- if the first two char after dollar sign are GP
@@ -27,7 +31,7 @@ parse a
 parseMessage :: String -> Maybe GPSMessage
 parseMessage a =
   case take 6 a of 
-    "$GPGGA" -> Just GGA {name = "GGA MESSAGE"} 
+    "$GPGGA" -> Just GGA {name = "GGA MESSAGE"}
     "$GPGLL" -> Just GLL {name = "GLL MESSAGE"}
     "$GPGSA" -> Just GSA {name = "GSA MESSAGE"}
     "$GPGSV" -> Just GSV {name = "GSV MESSAGE"}
@@ -36,3 +40,8 @@ parseMessage a =
     "$GPVTG" -> Just VTG {name = "VTG MESSAGE"}
     _ -> Prelude.Nothing
     
+-- parseString :: String -> [[Char]]
+-- parseString = splitOn ","
+
+-- createGPSMessage :: [[Char]] -> GPSMessage
+-- createGPSMessage a =
