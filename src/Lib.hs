@@ -18,6 +18,10 @@ data GPSMessage =
 getName :: GPSMessage -> String
 getName = name
 
+fromSentence :: (String -> GPSMessage) -> [String] -> GPSMessage
+fromSentence constructor (x:_) = constructor x
+fromSentence _ [] = error "Empty list provided"
+
 -- if empty or not starting with a dollar sign, it is not a gps message
 -- if the first two char after dollar sign are GP
 -- if the next 3 char after GP are in a specified list
@@ -31,17 +35,17 @@ parse a
 parseMessage :: String -> Maybe GPSMessage
 parseMessage a =
   case take 6 a of 
-    "$GPGGA" -> Just GGA {name = "GGA MESSAGE"}
-    "$GPGLL" -> Just GLL {name = "GLL MESSAGE"}
-    "$GPGSA" -> Just GSA {name = "GSA MESSAGE"}
-    "$GPGSV" -> Just GSV {name = "GSV MESSAGE"}
-    "$GPMSS" -> Just MSS {name = "MSS MESSAGE"}
-    "$GPRMC" -> Just RMC {name = "RMC MESSAGE"}
-    "$GPVTG" -> Just VTG {name = "VTG MESSAGE"}
+    "$GPGGA" -> Just (fromSentence GGA (parseString a))
+    "$GPGLL" -> Just (fromSentence GLL (parseString a))
+    "$GPGSA" -> Just (fromSentence GSA (parseString a))
+    "$GPGSV" -> Just (fromSentence GSV (parseString a))
+    "$GPMSS" -> Just (fromSentence MSS (parseString a))
+    "$GPRMC" -> Just (fromSentence RMC (parseString a))
+    "$GPVTG" -> Just (fromSentence VTG (parseString a))
     _ -> Prelude.Nothing
     
--- parseString :: String -> [[Char]]
--- parseString = splitOn ","
+parseString :: String -> [[Char]]
+parseString = splitOn ","
 
 -- createGPSMessage :: [[Char]] -> GPSMessage
 -- createGPSMessage a =
