@@ -15,7 +15,7 @@ main = do
 
 parseSingle :: String -> String
 parseSingle x = 
-  maybe "empty" getName (parse x)
+  maybe "empty" describe (parse x)
 
 parseFile :: [String] -> [String]
 parseFile = map parseSingle
