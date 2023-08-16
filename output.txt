@@ -1,0 +1,2832 @@
+$GPRMC speed over ground (knots):1.06
+$GPGGA lat:5540.3252 lon:01231.2946
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.42
+$GPVTG mph:2.6
+$GPGGA lat:5540.3244 lon:01231.2941
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.75
+$GPVTG mph:3.2
+$GPGGA lat:5540.3231 lon:01231.2938
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.83
+$GPVTG mph:3.4
+$GPGGA lat:5540.3233 lon:01231.2941
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.23
+$GPVTG mph:2.3
+$GPGGA lat:5540.3232 lon:01231.2946
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.97
+$GPVTG mph:3.6
+$GPGGA lat:5540.3238 lon:01231.2961
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.44
+$GPVTG mph:4.5
+$GPGGA lat:5540.3247 lon:01231.2959
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.56
+$GPVTG mph:4.7
+$GPGGA lat:5540.3246 lon:01231.2970
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.26
+$GPVTG mph:4.2
+$GPGGA lat:5540.3248 lon:01231.2980
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.49
+$GPVTG mph:4.6
+$GPGGA lat:5540.3248 lon:01231.2992
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.02
+$GPVTG mph:3.7
+$GPGGA lat:5540.3247 lon:01231.3001
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.94
+$GPVTG mph:3.6
+$GPGGA lat:5540.3245 lon:01231.3009
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.20
+$GPVTG mph:2.2
+$GPGGA lat:5540.3243 lon:01231.3013
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.65
+$GPVTG mph:1.2
+$GPGGA lat:5540.3241 lon:01231.3016
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.02
+$GPVTG mph:1.9
+$GPGGA lat:5540.3237 lon:01231.3015
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.90
+$GPVTG mph:1.7
+$GPGGA lat:5540.3235 lon:01231.3012
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.36
+$GPVTG mph:2.5
+$GPGGA lat:5540.3231 lon:01231.3010
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:2.8
+$GPGGA lat:5540.3227 lon:01231.3006
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.61
+$GPVTG mph:3.0
+$GPGGA lat:5540.3225 lon:01231.2999
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.25
+$GPVTG mph:2.3
+$GPGGA lat:5540.3221 lon:01231.2994
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.70
+$GPVTG mph:3.1
+$GPGGA lat:5540.3216 lon:01231.2991
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.84
+$GPVTG mph:3.4
+$GPGGA lat:5540.3212 lon:01231.2984
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.57
+$GPVTG mph:2.9
+$GPGGA lat:5540.3206 lon:01231.2981
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.70
+$GPVTG mph:3.2
+$GPGGA lat:5540.3202 lon:01231.2975
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.79
+$GPVTG mph:3.3
+$GPGGA lat:5540.3198 lon:01231.2971
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.42
+$GPVTG mph:2.6
+$GPGGA lat:5540.3194 lon:01231.2967
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.24
+$GPVTG mph:2.3
+$GPGGA lat:5540.3191 lon:01231.2965
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.30
+$GPVTG mph:2.4
+$GPGGA lat:5540.3187 lon:01231.2963
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.13
+$GPVTG mph:2.1
+$GPGGA lat:5540.3186 lon:01231.2959
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.35
+$GPVTG mph:2.5
+$GPGGA lat:5540.3182 lon:01231.2953
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.14
+$GPVTG mph:2.1
+$GPGGA lat:5540.3180 lon:01231.2947
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.11
+$GPVTG mph:2.1
+$GPGGA lat:5540.3177 lon:01231.2944
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.52
+$GPVTG mph:2.8
+$GPGGA lat:5540.3171 lon:01231.2942
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.96
+$GPVTG mph:3.6
+$GPGGA lat:5540.3166 lon:01231.2939
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.36
+$GPVTG mph:2.5
+$GPGGA lat:5540.3160 lon:01231.2940
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.31
+$GPVTG mph:2.4
+$GPGGA lat:5540.3152 lon:01231.2945
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.88
+$GPVTG mph:3.5
+$GPGGA lat:5540.3144 lon:01231.2954
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:1.8
+$GPGGA lat:5540.3133 lon:01231.2962
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.20
+$GPVTG mph:4.1
+$GPGGA lat:5540.3125 lon:01231.2966
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):3.06
+$GPVTG mph:5.7
+$GPGGA lat:5540.3118 lon:01231.2972
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):3.73
+$GPVTG mph:6.9
+$GPGGA lat:5540.3106 lon:01231.2975
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):4.13
+$GPVTG mph:7.6
+$GPGGA lat:5540.3094 lon:01231.2974
+$GPGSA channel1:
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):4.13
+$GPVTG mph:7.6
+$GPGGA lat:5540.3083 lon:01231.2974
+$GPGSA channel1:
+$GPRMC speed over ground (knots):4.13
+$GPVTG mph:7.6
+$GPGGA lat:5540.3071 lon:01231.2973
+$GPGSA channel1:
+$GPRMC speed over ground (knots):4.13
+$GPVTG mph:7.6
+$GPGGA lat:5540.3060 lon:01231.2972
+$GPGSA channel1:
+$GPRMC speed over ground (knots):4.13
+$GPVTG mph:7.6
+$GPGGA lat:5540.3049 lon:01231.2971
+$GPGSA channel1:
+$GPRMC speed over ground (knots):4.13
+$GPVTG mph:7.6
+$GPGGA lat:5540.3037 lon:01231.2971
+$GPGSA channel1:
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):4.13
+$GPVTG mph:7.6
+$GPGGA lat:5540.3026 lon:01231.2970
+$GPGSA channel1:
+$GPRMC speed over ground (knots):4.13
+$GPVTG mph:7.6
+$GPGGA lat:5540.3014 lon:01231.2969
+$GPGSA channel1:
+$GPRMC speed over ground (knots):4.13
+$GPVTG mph:7.6
+$GPGGA lat:5540.3003 lon:01231.2968
+$GPGSA channel1:
+$GPRMC speed over ground (knots):4.13
+$GPVTG mph:7.6
+$GPGGA lat:5540.2991 lon:01231.2967
+$GPGSA channel1:
+$GPRMC speed over ground (knots):4.13
+$GPVTG mph:7.6
+$GPGGA lat:5540.2980 lon:01231.2967
+$GPGSA channel1:
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):4.13
+$GPVTG mph:7.6
+$GPGGA lat:5540.2968 lon:01231.2966
+$GPGSA channel1:
+$GPRMC speed over ground (knots):4.13
+$GPVTG mph:7.6
+$GPGGA lat:5540.2957 lon:01231.2965
+$GPGSA channel1:
+$GPRMC speed over ground (knots):4.13
+$GPVTG mph:7.6
+$GPGGA lat:5540.2946 lon:01231.2964
+$GPGSA channel1:
+$GPRMC speed over ground (knots):4.13
+$GPVTG mph:7.6
+$GPGGA lat:5540.2915 lon:01231.2499
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):3.92
+$GPGGA lat:5540.2806 lon:01231.2594
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):4.24
+$GPVTG mph:7.9
+$GPGGA lat:5540.2778 lon:01231.2591
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):3.97
+$GPVTG mph:7.4
+$GPGGA lat:5540.2803 lon:01231.2663
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.03
+$GPVTG mph:3.8
+$GPGGA lat:5540.2880 lon:01231.2723
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):3.13
+$GPVTG mph:5.8
+$GPGGA lat:5540.2875 lon:01231.2774
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.89
+$GPVTG mph:3.5
+$GPGGA lat:5540.2870 lon:01231.2803
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.64
+$GPVTG mph:3.0
+$GPGGA lat:5540.2854 lon:01231.2811
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.99
+$GPVTG mph:3.7
+$GPGGA lat:5540.2835 lon:01231.2839
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.03
+$GPVTG mph:3.8
+$GPGGA lat:5540.2830 lon:01231.2856
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.88
+$GPVTG mph:3.5
+$GPGGA lat:5540.2824 lon:01231.2865
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.93
+$GPVTG mph:3.6
+$GPGGA lat:5540.2818 lon:01231.2877
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.39
+$GPVTG mph:2.6
+$GPGGA lat:5540.2811 lon:01231.2883
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.46
+$GPVTG mph:2.7
+$GPGGA lat:5540.2808 lon:01231.2889
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.42
+$GPVTG mph:2.6
+$GPGGA lat:5540.2803 lon:01231.2893
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.73
+$GPVTG mph:3.2
+$GPGGA lat:5540.2798 lon:01231.2900
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.77
+$GPGGA lat:5540.2796 lon:01231.2907
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.95
+$GPVTG mph:3.6
+$GPGGA lat:5540.2792 lon:01231.2913
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.59
+$GPVTG mph:2.9
+$GPGGA lat:5540.2789 lon:01231.2917
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.33
+$GPVTG mph:2.5
+$GPGGA lat:5540.2785 lon:01231.2925
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.00
+$GPVTG mph:3.7
+$GPGGA lat:5540.2781 lon:01231.2932
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.46
+$GPVTG mph:2.7
+$GPGGA lat:5540.2778 lon:01231.2935
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.99
+$GPVTG mph:1.8
+$GPGGA lat:5540.2775 lon:01231.2936
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.71
+$GPVTG mph:1.3
+$GPGGA lat:5540.2770 lon:01231.2939
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.44
+$GPVTG mph:2.7
+$GPGGA lat:5540.2768 lon:01231.2936
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.10
+$GPVTG mph:2.0
+$GPGGA lat:5540.2764 lon:01231.2931
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.46
+$GPVTG mph:2.7
+$GPGGA lat:5540.2758 lon:01231.2934
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.05
+$GPVTG mph:1.9
+$GPGGA lat:5540.2750 lon:01231.2943
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.35
+$GPVTG mph:0.7
+$GPGGA lat:5540.2746 lon:01231.2943
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.49
+$GPVTG mph:0.9
+$GPGGA lat:5540.2741 lon:01231.2953
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.37
+$GPVTG mph:2.5
+$GPGGA lat:5540.2737 lon:01231.2956
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.10
+$GPVTG mph:2.0
+$GPGGA lat:5540.2734 lon:01231.2958
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.20
+$GPVTG mph:0.4
+$GPGGA lat:5540.2737 lon:01231.2955
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.49
+$GPVTG mph:0.9
+$GPGGA lat:5540.2737 lon:01231.2951
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.65
+$GPVTG mph:1.2
+$GPGGA lat:5540.2736 lon:01231.2945
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.21
+$GPVTG mph:2.2
+$GPGGA lat:5540.2735 lon:01231.2939
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:2.2
+$GPGGA lat:5540.2732 lon:01231.2932
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.65
+$GPVTG mph:3.1
+$GPGGA lat:5540.2729 lon:01231.2926
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.56
+$GPVTG mph:2.9
+$GPGGA lat:5540.2726 lon:01231.2919
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.52
+$GPVTG mph:2.8
+$GPGGA lat:5540.2722 lon:01231.2914
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.08
+$GPVTG mph:3.9
+$GPGGA lat:5540.2718 lon:01231.2905
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.97
+$GPVTG mph:3.6
+$GPGGA lat:5540.2715 lon:01231.2899
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.13
+$GPVTG mph:2.1
+$GPGGA lat:5540.2714 lon:01231.2894
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.53
+$GPVTG mph:1.0
+$GPGGA lat:5540.2714 lon:01231.2895
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.58
+$GPVTG mph:1.1
+$GPGGA lat:5540.2716 lon:01231.2897
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.62
+$GPVTG mph:1.2
+$GPGGA lat:5540.2717 lon:01231.2899
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.79
+$GPVTG mph:1.5
+$GPGGA lat:5540.2721 lon:01231.2897
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.51
+$GPVTG mph:0.9
+$GPGGA lat:5540.2722 lon:01231.2896
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.30
+$GPVTG mph:0.6
+$GPGGA lat:5540.2723 lon:01231.2893
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.69
+$GPVTG mph:1.3
+$GPGGA lat:5540.2723 lon:01231.2888
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.86
+$GPVTG mph:1.6
+$GPGGA lat:5540.2722 lon:01231.2885
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.32
+$GPVTG mph:0.6
+$GPGGA lat:5540.2720 lon:01231.2879
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.61
+$GPVTG mph:1.1
+$GPGGA lat:5540.2720 lon:01231.2876
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.36
+$GPVTG mph:0.7
+$GPGGA lat:5540.2719 lon:01231.2875
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.24
+$GPVTG mph:0.4
+$GPGGA lat:5540.2718 lon:01231.2874
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.39
+$GPVTG mph:0.7
+$GPGGA lat:5540.2717 lon:01231.2872
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:1.1
+$GPGGA lat:5540.2718 lon:01231.2870
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.52
+$GPVTG mph:1.0
+$GPGGA lat:5540.2718 lon:01231.2869
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.11
+$GPVTG mph:0.2
+$GPGGA lat:5540.2717 lon:01231.2868
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.27
+$GPVTG mph:0.5
+$GPGGA lat:5540.2716 lon:01231.2868
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.36
+$GPVTG mph:0.7
+$GPGGA lat:5540.2716 lon:01231.2867
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.24
+$GPVTG mph:0.4
+$GPGGA lat:5540.2715 lon:01231.2867
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.27
+$GPVTG mph:0.5
+$GPGGA lat:5540.2715 lon:01231.2866
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.31
+$GPVTG mph:0.6
+$GPGGA lat:5540.2714 lon:01231.2865
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.43
+$GPVTG mph:0.8
+$GPGGA lat:5540.2714 lon:01231.2864
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.20
+$GPVTG mph:0.4
+$GPGGA lat:5540.2714 lon:01231.2865
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.03
+$GPVTG mph:0.1
+$GPGGA lat:5540.2715 lon:01231.2866
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.24
+$GPVTG mph:0.4
+$GPGGA lat:5540.2710 lon:01231.2860
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.36
+$GPVTG mph:0.7
+$GPGGA lat:5540.2710 lon:01231.2859
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.17
+$GPVTG mph:0.3
+$GPGGA lat:5540.2706 lon:01231.2857
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.39
+$GPVTG mph:0.7
+$GPGGA lat:5540.2704 lon:01231.2856
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPRMC speed over ground (knots):0.54
+$GPVTG mph:1.0
+$GPGGA lat:5540.2702 lon:01231.2856
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.23
+$GPVTG mph:0.4
+$GPGGA lat:5540.2701 lon:01231.2854
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.37
+$GPVTG mph:0.7
+$GPGGA lat:5540.2700 lon:01231.2852
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.29
+$GPVTG mph:0.5
+$GPGGA lat:5540.2697 lon:01231.2847
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.00
+$GPVTG mph:1.8
+$GPGGA lat:5540.2692 lon:01231.2838
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.02
+$GPVTG mph:1.9
+$GPGGA lat:5540.2688 lon:01231.2832
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.60
+$GPVTG mph:1.1
+$GPGGA lat:5540.2685 lon:01231.2830
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.36
+$GPVTG mph:2.5
+$GPGGA lat:5540.2679 lon:01231.2820
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.11
+$GPVTG mph:2.0
+$GPGGA lat:5540.2675 lon:01231.2813
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.87
+$GPVTG mph:1.6
+$GPGGA lat:5540.2673 lon:01231.2809
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.51
+$GPVTG mph:2.8
+$GPGGA lat:5540.2671 lon:01231.2804
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.57
+$GPVTG mph:2.9
+$GPGGA lat:5540.2667 lon:01231.2801
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.39
+$GPVTG mph:2.6
+$GPGGA lat:5540.2666 lon:01231.2799
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.76
+$GPVTG mph:1.4
+$GPGGA lat:5540.2665 lon:01231.2800
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.33
+$GPVTG mph:0.6
+$GPGGA lat:5540.2665 lon:01231.2803
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.56
+$GPVTG mph:1.0
+$GPGGA lat:5540.2666 lon:01231.2805
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.75
+$GPVTG mph:1.4
+$GPGGA lat:5540.2664 lon:01231.2804
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.48
+$GPVTG mph:0.9
+$GPGGA lat:5540.2663 lon:01231.2802
+$GPGSA channel1:06
+$GPRMC speed over ground (knots):0.33
+$GPVTG mph:0.6
+$GPGGA lat:5540.2663 lon:01231.2802
+$GPGSA channel1:06
+$GPRMC speed over ground (knots):0.54
+$GPVTG mph:1.0
+$GPGGA lat:5540.2669 lon:01231.2814
+$GPGSA channel1:06
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:1.5
+$GPGGA lat:5540.2670 lon:01231.2816
+$GPGSA channel1:06
+$GPRMC speed over ground (knots):0.49
+$GPVTG mph:0.9
+$GPGGA lat:5540.2672 lon:01231.2817
+$GPGSA channel1:06
+$GPRMC speed over ground (knots):0.20
+$GPVTG mph:0.4
+$GPGGA lat:5540.2672 lon:01231.2816
+$GPGSA channel1:06
+$GPRMC speed over ground (knots):0.35
+$GPVTG mph:0.7
+$GPGGA lat:5540.2673 lon:01231.2816
+$GPGSA channel1:06
+$GPRMC speed over ground (knots):0.34
+$GPVTG mph:0.6
+$GPGGA lat:5540.2678 lon:01231.2818
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.76
+$GPVTG mph:1.4
+$GPGGA lat:5540.2675 lon:01231.2824
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.41
+$GPVTG mph:0.8
+$GPGGA lat:5540.2674 lon:01231.2830
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.49
+$GPVTG mph:0.9
+$GPGGA lat:5540.2676 lon:01231.2830
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.06
+$GPVTG mph:0.1
+$GPGGA lat:5540.2679 lon:01231.2834
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.14
+$GPVTG mph:0.3
+$GPGGA lat:5540.2681 lon:01231.2835
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.08
+$GPVTG mph:0.2
+$GPGGA lat:5540.2680 lon:01231.2830
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.09
+$GPVTG mph:0.2
+$GPGGA lat:5540.2686 lon:01231.2828
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.11
+$GPVTG mph:0.2
+$GPGGA lat:5540.2684 lon:01231.2820
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.47
+$GPVTG mph:0.9
+$GPGGA lat:5540.2685 lon:01231.2818
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.43
+$GPVTG mph:0.8
+$GPGGA lat:5540.2684 lon:01231.2817
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.14
+$GPVTG mph:0.3
+$GPGGA lat:5540.2683 lon:01231.2813
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.38
+$GPVTG mph:0.7
+$GPGGA lat:5540.2681 lon:01231.2809
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.41
+$GPVTG mph:0.8
+$GPGGA lat:5540.2681 lon:01231.2808
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.67
+$GPVTG mph:1.2
+$GPGGA lat:5540.2681 lon:01231.2806
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.39
+$GPVTG mph:0.7
+$GPGGA lat:5540.2681 lon:01231.2808
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.02
+$GPVTG mph:1.9
+$GPGGA lat:5540.2685 lon:01231.2808
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.11
+$GPVTG mph:2.1
+$GPGGA lat:5540.2686 lon:01231.2803
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.33
+$GPVTG mph:0.6
+$GPGGA lat:5540.2685 lon:01231.2807
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.27
+$GPVTG mph:0.5
+$GPGGA lat:5540.2686 lon:01231.2809
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.40
+$GPVTG mph:0.7
+$GPGGA lat:5540.2686 lon:01231.2809
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.04
+$GPGGA lat:5540.2687 lon:01231.2808
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.31
+$GPVTG mph:0.6
+$GPGGA lat:5540.2686 lon:01231.2807
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.49
+$GPVTG mph:0.9
+$GPGGA lat:5540.2686 lon:01231.2809
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.58
+$GPVTG mph:1.1
+$GPGGA lat:5540.2685 lon:01231.2804
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.20
+$GPVTG mph:0.4
+$GPGGA lat:5540.2689 lon:01231.2798
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.74
+$GPVTG mph:1.4
+$GPGGA lat:5540.2695 lon:01231.2796
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.59
+$GPVTG mph:1.1
+$GPGGA lat:5540.2698 lon:01231.2794
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.64
+$GPVTG mph:1.2
+$GPGGA lat:5540.2699 lon:01231.2790
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.22
+$GPVTG mph:0.4
+$GPGGA lat:5540.2700 lon:01231.2783
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.16
+$GPVTG mph:0.3
+$GPGGA lat:5540.2701 lon:01231.2777
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.27
+$GPVTG mph:0.5
+$GPGGA lat:5540.2703 lon:01231.2774
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.17
+$GPVTG mph:0.3
+$GPGGA lat:5540.2704 lon:01231.2775
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.30
+$GPVTG mph:0.5
+$GPGGA lat:5540.2705 lon:01231.2778
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.51
+$GPVTG mph:0.9
+$GPGGA lat:5540.2706 lon:01231.2782
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.84
+$GPVTG mph:1.5
+$GPGGA lat:5540.2709 lon:01231.2786
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.97
+$GPVTG mph:1.8
+$GPGGA lat:5540.2709 lon:01231.2790
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.40
+$GPVTG mph:0.7
+$GPGGA lat:5540.2711 lon:01231.2788
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.66
+$GPVTG mph:1.2
+$GPGGA lat:5540.2714 lon:01231.2792
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.29
+$GPVTG mph:2.4
+$GPGGA lat:5540.2716 lon:01231.2801
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.13
+$GPVTG mph:2.1
+$GPGGA lat:5540.2719 lon:01231.2806
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.91
+$GPGGA lat:5540.2718 lon:01231.2804
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.61
+$GPVTG mph:1.1
+$GPGGA lat:5540.2719 lon:01231.2803
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.00
+$GPVTG mph:1.8
+$GPGGA lat:5540.2721 lon:01231.2816
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.35
+$GPVTG mph:2.5
+$GPGGA lat:5540.2723 lon:01231.2842
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.39
+$GPVTG mph:2.6
+$GPGGA lat:5540.2726 lon:01231.2862
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.78
+$GPVTG mph:3.3
+$GPGGA lat:5540.2729 lon:01231.2874
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.28
+$GPVTG mph:2.4
+$GPGGA lat:5540.2730 lon:01231.2885
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.28
+$GPVTG mph:2.4
+$GPGGA lat:5540.2727 lon:01231.2893
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.78
+$GPVTG mph:3.3
+$GPGGA lat:5540.2726 lon:01231.2901
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.64
+$GPVTG mph:3.0
+$GPGGA lat:5540.2723 lon:01231.2916
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.95
+$GPVTG mph:3.6
+$GPGGA lat:5540.2723 lon:01231.2925
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.82
+$GPVTG mph:3.4
+$GPGGA lat:5540.2722 lon:01231.2941
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.15
+$GPVTG mph:4.0
+$GPGGA lat:5540.2720 lon:01231.2955
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.55
+$GPVTG mph:4.7
+$GPGGA lat:5540.2716 lon:01231.2970
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.43
+$GPVTG mph:4.5
+$GPGGA lat:5540.2712 lon:01231.2985
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.49
+$GPVTG mph:4.6
+$GPGGA lat:5540.2708 lon:01231.2997
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.88
+$GPVTG mph:5.3
+$GPGGA lat:5540.2703 lon:01231.3008
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.95
+$GPVTG mph:5.5
+$GPGGA lat:5540.2698 lon:01231.3016
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.42
+$GPVTG mph:4.5
+$GPGGA lat:5540.2693 lon:01231.3024
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.10
+$GPVTG mph:3.9
+$GPGGA lat:5540.2690 lon:01231.3032
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.90
+$GPGGA lat:5540.2685 lon:01231.3039
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.99
+$GPVTG mph:3.7
+$GPGGA lat:5540.2681 lon:01231.3046
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.18
+$GPVTG mph:4.0
+$GPGGA lat:5540.2678 lon:01231.3054
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.35
+$GPVTG mph:4.4
+$GPGGA lat:5540.2673 lon:01231.3069
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.30
+$GPVTG mph:4.3
+$GPGGA lat:5540.2666 lon:01231.3077
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.45
+$GPVTG mph:4.5
+$GPGGA lat:5540.2660 lon:01231.3086
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.67
+$GPVTG mph:4.9
+$GPGGA lat:5540.2655 lon:01231.3097
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.72
+$GPVTG mph:5.0
+$GPGGA lat:5540.2649 lon:01231.3112
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.79
+$GPVTG mph:5.2
+$GPGGA lat:5540.2644 lon:01231.3121
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.04
+$GPVTG mph:3.8
+$GPGGA lat:5540.2640 lon:01231.3127
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.50
+$GPVTG mph:2.8
+$GPGGA lat:5540.2634 lon:01231.3130
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.66
+$GPVTG mph:3.1
+$GPGGA lat:5540.2629 lon:01231.3135
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.86
+$GPVTG mph:3.4
+$GPGGA lat:5540.2624 lon:01231.3139
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.64
+$GPVTG mph:3.0
+$GPGGA lat:5540.2617 lon:01231.3143
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.02
+$GPVTG mph:3.7
+$GPGGA lat:5540.2610 lon:01231.3149
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.94
+$GPVTG mph:3.6
+$GPGGA lat:5540.2604 lon:01231.3150
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.94
+$GPVTG mph:3.6
+$GPGGA lat:5540.2597 lon:01231.3151
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.07
+$GPVTG mph:3.8
+$GPGGA lat:5540.2591 lon:01231.3154
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.39
+$GPVTG mph:4.4
+$GPGGA lat:5540.2586 lon:01231.3160
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.13
+$GPVTG mph:3.9
+$GPGGA lat:5540.2581 lon:01231.3165
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:3.5
+$GPGGA lat:5540.2576 lon:01231.3166
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.77
+$GPVTG mph:3.3
+$GPGGA lat:5540.2570 lon:01231.3167
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.05
+$GPVTG mph:3.8
+$GPGGA lat:5540.2562 lon:01231.3168
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.31
+$GPVTG mph:4.3
+$GPGGA lat:5540.2555 lon:01231.3170
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.14
+$GPVTG mph:4.0
+$GPGGA lat:5540.2549 lon:01231.3169
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.71
+$GPVTG mph:3.2
+$GPGGA lat:5540.2544 lon:01231.3171
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.77
+$GPVTG mph:3.3
+$GPGGA lat:5540.2537 lon:01231.3172
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.94
+$GPVTG mph:3.6
+$GPGGA lat:5540.2530 lon:01231.3169
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.81
+$GPVTG mph:3.4
+$GPGGA lat:5540.2525 lon:01231.3165
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.72
+$GPVTG mph:3.2
+$GPGGA lat:5540.2520 lon:01231.3162
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.68
+$GPVTG mph:3.1
+$GPGGA lat:5540.2514 lon:01231.3162
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.64
+$GPVTG mph:3.0
+$GPGGA lat:5540.2507 lon:01231.3162
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.57
+$GPVTG mph:2.9
+$GPGGA lat:5540.2504 lon:01231.3161
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.65
+$GPVTG mph:3.0
+$GPGGA lat:5540.2497 lon:01231.3163
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.26
+$GPVTG mph:4.2
+$GPGGA lat:5540.2490 lon:01231.3164
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.30
+$GPVTG mph:4.3
+$GPGGA lat:5540.2484 lon:01231.3163
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.12
+$GPVTG mph:3.9
+$GPGGA lat:5540.2479 lon:01231.3160
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.19
+$GPVTG mph:4.1
+$GPGGA lat:5540.2474 lon:01231.3155
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.32
+$GPVTG mph:4.3
+$GPGGA lat:5540.2469 lon:01231.3154
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.21
+$GPVTG mph:4.1
+$GPGGA lat:5540.2463 lon:01231.3151
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPRMC speed over ground (knots):2.14
+$GPVTG mph:4.0
+$GPGGA lat:5540.2457 lon:01231.3148
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.23
+$GPVTG mph:4.1
+$GPGGA lat:5540.2450 lon:01231.3143
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.31
+$GPVTG mph:4.3
+$GPGGA lat:5540.2443 lon:01231.3139
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.38
+$GPVTG mph:4.4
+$GPGGA lat:5540.2437 lon:01231.3133
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.55
+$GPVTG mph:4.7
+$GPGGA lat:5540.2429 lon:01231.3126
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.64
+$GPVTG mph:4.9
+$GPGGA lat:5540.2422 lon:01231.3120
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.37
+$GPVTG mph:4.4
+$GPGGA lat:5540.2416 lon:01231.3114
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.58
+$GPVTG mph:4.8
+$GPGGA lat:5540.2410 lon:01231.3110
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.44
+$GPVTG mph:4.5
+$GPGGA lat:5540.2397 lon:01231.3110
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):3.13
+$GPVTG mph:5.8
+$GPGGA lat:5540.2387 lon:01231.3107
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.65
+$GPVTG mph:4.9
+$GPGGA lat:5540.2381 lon:01231.3101
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.97
+$GPVTG mph:3.6
+$GPGGA lat:5540.2375 lon:01231.3096
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.26
+$GPVTG mph:4.2
+$GPGGA lat:5540.2368 lon:01231.3089
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.52
+$GPVTG mph:4.7
+$GPGGA lat:5540.2360 lon:01231.3080
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.62
+$GPVTG mph:4.8
+$GPGGA lat:5540.2353 lon:01231.3073
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.55
+$GPVTG mph:4.7
+$GPGGA lat:5540.2348 lon:01231.3068
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.56
+$GPVTG mph:4.7
+$GPGGA lat:5540.2342 lon:01231.3057
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.81
+$GPVTG mph:5.2
+$GPGGA lat:5540.2337 lon:01231.3047
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.57
+$GPVTG mph:4.8
+$GPGGA lat:5540.2333 lon:01231.3037
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.58
+$GPVTG mph:4.8
+$GPGGA lat:5540.2330 lon:01231.3027
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.75
+$GPVTG mph:5.1
+$GPGGA lat:5540.2325 lon:01231.3013
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.63
+$GPVTG mph:4.9
+$GPGGA lat:5540.2322 lon:01231.3002
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.50
+$GPVTG mph:4.6
+$GPGGA lat:5540.2318 lon:01231.2992
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.34
+$GPVTG mph:4.3
+$GPGGA lat:5540.2314 lon:01231.2983
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.42
+$GPVTG mph:4.5
+$GPGGA lat:5540.2311 lon:01231.2974
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:3.8
+$GPGGA lat:5540.2311 lon:01231.2969
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.08
+$GPVTG mph:3.9
+$GPGGA lat:5540.2308 lon:01231.2960
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.24
+$GPVTG mph:4.1
+$GPGGA lat:5540.2303 lon:01231.2951
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.95
+$GPVTG mph:3.6
+$GPGGA lat:5540.2300 lon:01231.2944
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.99
+$GPVTG mph:3.7
+$GPGGA lat:5540.2296 lon:01231.2933
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.42
+$GPVTG mph:4.5
+$GPGGA lat:5540.2292 lon:01231.2919
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.94
+$GPVTG mph:3.6
+$GPGGA lat:5540.2290 lon:01231.2910
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.79
+$GPVTG mph:3.3
+$GPGGA lat:5540.2288 lon:01231.2900
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.26
+$GPVTG mph:4.2
+$GPGGA lat:5540.2286 lon:01231.2892
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.67
+$GPVTG mph:3.1
+$GPGGA lat:5540.2285 lon:01231.2884
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.94
+$GPVTG mph:1.7
+$GPGGA lat:5540.2284 lon:01231.2870
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.68
+$GPVTG mph:3.1
+$GPGGA lat:5540.2281 lon:01231.2861
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.85
+$GPVTG mph:3.4
+$GPGGA lat:5540.2279 lon:01231.2849
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.45
+$GPVTG mph:2.7
+$GPGGA lat:5540.2277 lon:01231.2838
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.46
+$GPVTG mph:2.7
+$GPGGA lat:5540.2275 lon:01231.2823
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.15
+$GPVTG mph:4.0
+$GPGGA lat:5540.2272 lon:01231.2809
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.15
+$GPVTG mph:4.0
+$GPGGA lat:5540.2268 lon:01231.2794
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.77
+$GPVTG mph:3.3
+$GPGGA lat:5540.2266 lon:01231.2780
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.56
+$GPVTG mph:2.9
+$GPGGA lat:5540.2266 lon:01231.2771
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.53
+$GPVTG mph:2.8
+$GPGGA lat:5540.2266 lon:01231.2762
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:3.5
+$GPGGA lat:5540.2263 lon:01231.2751
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.24
+$GPVTG mph:4.2
+$GPGGA lat:5540.2259 lon:01231.2743
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.72
+$GPVTG mph:3.2
+$GPGGA lat:5540.2258 lon:01231.2731
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.94
+$GPVTG mph:3.6
+$GPGGA lat:5540.2257 lon:01231.2720
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.17
+$GPVTG mph:4.0
+$GPGGA lat:5540.2255 lon:01231.2707
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.53
+$GPVTG mph:4.7
+$GPGGA lat:5540.2254 lon:01231.2692
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.63
+$GPVTG mph:4.9
+$GPGGA lat:5540.2253 lon:01231.2683
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.03
+$GPVTG mph:3.8
+$GPGGA lat:5540.2250 lon:01231.2673
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.25
+$GPVTG mph:4.2
+$GPGGA lat:5540.2248 lon:01231.2662
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.48
+$GPVTG mph:4.6
+$GPGGA lat:5540.2246 lon:01231.2651
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.22
+$GPVTG mph:4.1
+$GPGGA lat:5540.2244 lon:01231.2644
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.13
+$GPVTG mph:3.9
+$GPGGA lat:5540.2242 lon:01231.2634
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.84
+$GPVTG mph:3.4
+$GPGGA lat:5540.2242 lon:01231.2623
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.89
+$GPVTG mph:3.5
+$GPGGA lat:5540.2241 lon:01231.2613
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.96
+$GPVTG mph:3.6
+$GPGGA lat:5540.2236 lon:01231.2598
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.03
+$GPVTG mph:3.8
+$GPGGA lat:5540.2232 lon:01231.2586
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.13
+$GPVTG mph:3.9
+$GPGGA lat:5540.2226 lon:01231.2569
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.50
+$GPVTG mph:4.6
+$GPGGA lat:5540.2223 lon:01231.2555
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.17
+$GPVTG mph:4.0
+$GPGGA lat:5540.2224 lon:01231.2545
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.65
+$GPVTG mph:3.1
+$GPGGA lat:5540.2226 lon:01231.2525
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:3.8
+$GPGGA lat:5540.2220 lon:01231.2511
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.29
+$GPVTG mph:4.2
+$GPGGA lat:5540.2216 lon:01231.2498
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.97
+$GPVTG mph:3.7
+$GPGGA lat:5540.2214 lon:01231.2487
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.05
+$GPVTG mph:3.8
+$GPGGA lat:5540.2207 lon:01231.2484
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.12
+$GPVTG mph:3.9
+$GPGGA lat:5540.2200 lon:01231.2477
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.30
+$GPVTG mph:4.3
+$GPGGA lat:5540.2193 lon:01231.2476
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.43
+$GPVTG mph:4.5
+$GPGGA lat:5540.2184 lon:01231.2469
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.34
+$GPVTG mph:4.3
+$GPGGA lat:5540.2175 lon:01231.2468
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.20
+$GPVTG mph:4.1
+$GPGGA lat:5540.2169 lon:01231.2470
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.98
+$GPVTG mph:3.7
+$GPGGA lat:5540.2163 lon:01231.2466
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.02
+$GPVTG mph:3.7
+$GPGGA lat:5540.2160 lon:01231.2463
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.97
+$GPVTG mph:3.7
+$GPGGA lat:5540.2153 lon:01231.2459
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.37
+$GPVTG mph:4.4
+$GPGGA lat:5540.2146 lon:01231.2454
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.34
+$GPVTG mph:4.3
+$GPGGA lat:5540.2140 lon:01231.2446
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.48
+$GPVTG mph:4.6
+$GPGGA lat:5540.2134 lon:01231.2447
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.26
+$GPVTG mph:4.2
+$GPGGA lat:5540.2126 lon:01231.2445
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.21
+$GPVTG mph:4.1
+$GPGGA lat:5540.2121 lon:01231.2444
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.97
+$GPVTG mph:3.6
+$GPGGA lat:5540.2111 lon:01231.2440
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.24
+$GPVTG mph:4.2
+$GPGGA lat:5540.2102 lon:01231.2435
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.25
+$GPVTG mph:4.2
+$GPGGA lat:5540.2095 lon:01231.2437
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPRMC speed over ground (knots):1.49
+$GPVTG mph:2.8
+$GPGGA lat:5540.2087 lon:01231.2437
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.68
+$GPVTG mph:3.1
+$GPGGA lat:5540.2082 lon:01231.2443
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.34
+$GPVTG mph:2.5
+$GPGGA lat:5540.2079 lon:01231.2446
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):0.95
+$GPVTG mph:1.8
+$GPGGA lat:5540.2077 lon:01231.2455
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.47
+$GPVTG mph:2.7
+$GPGGA lat:5540.2072 lon:01231.2457
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.45
+$GPVTG mph:2.7
+$GPGGA lat:5540.2067 lon:01231.2454
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.34
+$GPVTG mph:2.5
+$GPGGA lat:5540.2061 lon:01231.2457
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.32
+$GPVTG mph:4.3
+$GPGGA lat:5540.2053 lon:01231.2467
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.93
+$GPVTG mph:3.6
+$GPGGA lat:5540.2047 lon:01231.2475
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.45
+$GPVTG mph:2.7
+$GPGGA lat:5540.2037 lon:01231.2479
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.44
+$GPVTG mph:4.5
+$GPGGA lat:5540.2027 lon:01231.2475
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.26
+$GPVTG mph:4.2
+$GPGGA lat:5540.2020 lon:01231.2468
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.41
+$GPVTG mph:4.5
+$GPGGA lat:5540.2019 lon:01231.2456
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.90
+$GPVTG mph:3.5
+$GPGGA lat:5540.2018 lon:01231.2441
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.22
+$GPVTG mph:4.1
+$GPGGA lat:5540.2019 lon:01231.2425
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.33
+$GPVTG mph:4.3
+$GPGGA lat:5540.2023 lon:01231.2410
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.52
+$GPVTG mph:4.7
+$GPGGA lat:5540.2029 lon:01231.2399
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.48
+$GPVTG mph:4.6
+$GPGGA lat:5540.2032 lon:01231.2388
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.13
+$GPVTG mph:4.0
+$GPGGA lat:5540.2038 lon:01231.2380
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.39
+$GPVTG mph:4.4
+$GPGGA lat:5540.2045 lon:01231.2365
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.80
+$GPVTG mph:5.2
+$GPGGA lat:5540.2049 lon:01231.2351
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.58
+$GPVTG mph:4.8
+$GPGGA lat:5540.2049 lon:01231.2338
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):2.34
+$GPVTG mph:4.3
+$GPGGA lat:5540.2051 lon:01231.2327
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.69
+$GPVTG mph:3.1
+$GPGGA lat:5540.2054 lon:01231.2320
+$GPGSA channel1:03
+$GPRMC speed over ground (knots):1.47
+$GPVTG mph:2.7
+$GPGGA lat:5540.2054 lon:01231.2309
+$GPGSA channel1:03
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:3.1
+$GPGGA lat:5540.2052 lon:01231.2301
+$GPGSA channel1:06
+$GPRMC speed over ground (knots):0.62
+$GPVTG mph:1.2
+$GPGGA lat:5540.2052 lon:01231.2298
+$GPGSA channel1:
+$GPRMC speed over ground (knots):0.62
+$GPVTG mph:1.2
+$GPGGA lat:5540.2053 lon:01231.2295
+$GPGSA channel1:
+$GPRMC speed over ground (knots):0.62
+$GPVTG mph:1.2
+$GPGGA lat:5540.2053 lon:01231.2292
+$GPGSA channel1:
+$GPRMC speed over ground (knots):0.62
+$GPVTG mph:1.2
+$GPGGA lat:5540.2054 lon:01231.2289
+$GPGSA channel1:
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.62
+$GPVTG mph:1.2
+$GPGGA lat:5540.2054 lon:01231.2287
+$GPGSA channel1:
+$GPRMC speed over ground (knots):0.62
+$GPVTG mph:1.2
+$GPGGA lat:5540.2055 lon:01231.2284
+$GPGSA channel1:
+$GPRMC speed over ground (knots):0.62
+$GPVTG mph:1.2
+$GPGGA lat:5540.2056 lon:01231.2281
+$GPGSA channel1:
+$GPRMC speed over ground (knots):0.62
+$GPVTG mph:1.2
+$GPGGA lat:5540.2056 lon:01231.2278
+$GPGSA channel1:
+$GPRMC speed over ground (knots):0.62
+$GPVTG mph:1.2
+$GPGGA lat:5540.2057 lon:01231.2275
+$GPGSA channel1:
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:1.2
+$GPGGA lat:5540.2057 lon:01231.2272
+$GPGSA channel1:
+$GPRMC speed over ground (knots):0.62
+$GPVTG mph:1.2
+$GPGGA lat:5540.2058 lon:01231.2269
+$GPGSA channel1:
+$GPRMC speed over ground (knots):0.62
+$GPVTG mph:1.2
+$GPGGA lat:5540.2058 lon:01231.2266
+$GPGSA channel1:
+$GPRMC speed over ground (knots):0.62
+$GPVTG mph:1.2
+$GPGGA lat:5540.2059 lon:01231.2263
+$GPGSA channel1:
+$GPRMC speed over ground (knots):0.62
+$GPVTG mph:1.2
+$GPGGA lat:5540.2060 lon:01231.2260
+$GPGSA channel1:
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.62
+$GPVTG mph:1.2
+$GPGGA lat:5540.2190 lon:01231.2369
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):3.25
+$GPVTG mph:6.0
+$GPGGA lat:5540.2144 lon:01231.1879
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.88
+$GPGGA lat:5540.2155 lon:01231.1956
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.94
+$GPVTG mph:1.7
+$GPGGA lat:5540.2128 lon:01231.1897
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.71
+$GPVTG mph:3.2
+$GPGGA lat:5540.2126 lon:01231.1850
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.45
+$GPVTG mph:4.5
+$GPGGA lat:5540.2128 lon:01231.1837
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.58
+$GPVTG mph:2.9
+$GPGGA lat:5540.2129 lon:01231.1816
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.74
+$GPVTG mph:3.2
+$GPGGA lat:5540.2128 lon:01231.1809
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.98
+$GPVTG mph:1.8
+$GPGGA lat:5540.2128 lon:01231.1805
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.99
+$GPVTG mph:1.8
+$GPGGA lat:5540.2133 lon:01231.1799
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.52
+$GPVTG mph:2.8
+$GPGGA lat:5540.2133 lon:01231.1782
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.03
+$GPVTG mph:1.9
+$GPGGA lat:5540.2136 lon:01231.1769
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.44
+$GPVTG mph:2.7
+$GPGGA lat:5540.2134 lon:01231.1760
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.04
+$GPVTG mph:1.9
+$GPGGA lat:5540.2136 lon:01231.1759
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.77
+$GPVTG mph:3.3
+$GPGGA lat:5540.2139 lon:01231.1759
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.86
+$GPVTG mph:3.5
+$GPGGA lat:5540.2146 lon:01231.1753
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.92
+$GPVTG mph:3.6
+$GPGGA lat:5540.2156 lon:01231.1747
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPRMC speed over ground (knots):2.20
+$GPVTG mph:4.1
+$GPGGA lat:5540.2164 lon:01231.1742
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.18
+$GPVTG mph:4.0
+$GPGGA lat:5540.2169 lon:01231.1733
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.77
+$GPVTG mph:3.3
+$GPGGA lat:5540.2174 lon:01231.1724
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.12
+$GPVTG mph:3.9
+$GPGGA lat:5540.2176 lon:01231.1701
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.14
+$GPVTG mph:4.0
+$GPGGA lat:5540.2177 lon:01231.1685
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.89
+$GPVTG mph:3.5
+$GPGGA lat:5540.2182 lon:01231.1672
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.02
+$GPVTG mph:3.7
+$GPGGA lat:5540.2190 lon:01231.1660
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.30
+$GPVTG mph:4.3
+$GPGGA lat:5540.2198 lon:01231.1656
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.92
+$GPVTG mph:3.6
+$GPGGA lat:5540.2204 lon:01231.1647
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.18
+$GPVTG mph:4.0
+$GPGGA lat:5540.2213 lon:01231.1645
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.18
+$GPVTG mph:4.0
+$GPGGA lat:5540.2219 lon:01231.1635
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.59
+$GPVTG mph:2.9
+$GPGGA lat:5540.2221 lon:01231.1622
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.64
+$GPVTG mph:3.0
+$GPGGA lat:5540.2225 lon:01231.1618
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.61
+$GPVTG mph:3.0
+$GPGGA lat:5540.2227 lon:01231.1610
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.92
+$GPVTG mph:3.5
+$GPGGA lat:5540.2231 lon:01231.1607
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.59
+$GPVTG mph:3.0
+$GPGGA lat:5540.2239 lon:01231.1600
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.49
+$GPVTG mph:2.8
+$GPGGA lat:5540.2243 lon:01231.1590
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.57
+$GPVTG mph:2.9
+$GPGGA lat:5540.2253 lon:01231.1590
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.85
+$GPVTG mph:3.4
+$GPGGA lat:5540.2256 lon:01231.1580
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.86
+$GPVTG mph:3.4
+$GPGGA lat:5540.2263 lon:01231.1571
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.54
+$GPVTG mph:2.9
+$GPGGA lat:5540.2270 lon:01231.1567
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.43
+$GPVTG mph:2.6
+$GPGGA lat:5540.2274 lon:01231.1562
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.25
+$GPVTG mph:2.3
+$GPGGA lat:5540.2277 lon:01231.1553
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.91
+$GPVTG mph:3.5
+$GPGGA lat:5540.2280 lon:01231.1543
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.03
+$GPVTG mph:3.8
+$GPGGA lat:5540.2283 lon:01231.1537
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:1.6
+$GPGGA lat:5540.2287 lon:01231.1534
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.90
+$GPVTG mph:3.5
+$GPGGA lat:5540.2292 lon:01231.1525
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.67
+$GPVTG mph:3.1
+$GPGGA lat:5540.2297 lon:01231.1516
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.48
+$GPVTG mph:4.6
+$GPGGA lat:5540.2301 lon:01231.1503
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.12
+$GPVTG mph:3.9
+$GPGGA lat:5540.2308 lon:01231.1492
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.02
+$GPVTG mph:3.7
+$GPGGA lat:5540.2320 lon:01231.1481
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.08
+$GPVTG mph:3.9
+$GPGGA lat:5540.2329 lon:01231.1478
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.91
+$GPVTG mph:3.5
+$GPGGA lat:5540.2335 lon:01231.1472
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.32
+$GPVTG mph:2.4
+$GPGGA lat:5540.2341 lon:01231.1467
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.29
+$GPVTG mph:2.4
+$GPGGA lat:5540.2342 lon:01231.1458
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.64
+$GPVTG mph:1.2
+$GPGGA lat:5540.2347 lon:01231.1455
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.26
+$GPVTG mph:0.5
+$GPGGA lat:5540.2344 lon:01231.1452
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.14
+$GPVTG mph:0.3
+$GPGGA lat:5540.2345 lon:01231.1448
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.98
+$GPVTG mph:1.8
+$GPGGA lat:5540.2352 lon:01231.1440
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.95
+$GPVTG mph:1.8
+$GPGGA lat:5540.2355 lon:01231.1442
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.66
+$GPVTG mph:1.2
+$GPGGA lat:5540.2356 lon:01231.1439
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.20
+$GPVTG mph:0.4
+$GPGGA lat:5540.2362 lon:01231.1438
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.21
+$GPVTG mph:0.4
+$GPGGA lat:5540.2366 lon:01231.1444
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.49
+$GPVTG mph:2.8
+$GPGGA lat:5540.2372 lon:01231.1449
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.53
+$GPVTG mph:2.8
+$GPGGA lat:5540.2378 lon:01231.1457
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:3.0
+$GPGGA lat:5540.2385 lon:01231.1464
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.91
+$GPVTG mph:3.5
+$GPGGA lat:5540.2395 lon:01231.1471
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.21
+$GPVTG mph:4.1
+$GPGGA lat:5540.2403 lon:01231.1480
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.04
+$GPVTG mph:3.8
+$GPGGA lat:5540.2411 lon:01231.1488
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.08
+$GPVTG mph:3.9
+$GPGGA lat:5540.2419 lon:01231.1496
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.07
+$GPVTG mph:3.8
+$GPGGA lat:5540.2425 lon:01231.1501
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.09
+$GPVTG mph:3.9
+$GPGGA lat:5540.2433 lon:01231.1511
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.32
+$GPVTG mph:4.3
+$GPGGA lat:5540.2441 lon:01231.1526
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):3.03
+$GPVTG mph:5.6
+$GPGGA lat:5540.2447 lon:01231.1542
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.56
+$GPVTG mph:4.7
+$GPGGA lat:5540.2449 lon:01231.1554
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.38
+$GPVTG mph:4.4
+$GPGGA lat:5540.2455 lon:01231.1564
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.88
+$GPVTG mph:3.5
+$GPGGA lat:5540.2461 lon:01231.1576
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.47
+$GPVTG mph:2.7
+$GPGGA lat:5540.2460 lon:01231.1580
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.10
+$GPVTG mph:2.0
+$GPGGA lat:5540.2460 lon:01231.1585
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.79
+$GPVTG mph:1.5
+$GPGGA lat:5540.2464 lon:01231.1593
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.52
+$GPVTG mph:2.8
+$GPGGA lat:5540.2469 lon:01231.1604
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.55
+$GPVTG mph:2.9
+$GPGGA lat:5540.2473 lon:01231.1616
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.04
+$GPVTG mph:3.8
+$GPGGA lat:5540.2481 lon:01231.1628
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.72
+$GPVTG mph:5.0
+$GPGGA lat:5540.2484 lon:01231.1638
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.85
+$GPVTG mph:3.4
+$GPGGA lat:5540.2488 lon:01231.1647
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:4.3
+$GPGGA lat:5540.2493 lon:01231.1656
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.72
+$GPVTG mph:3.2
+$GPGGA lat:5540.2497 lon:01231.1663
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.83
+$GPVTG mph:3.4
+$GPGGA lat:5540.2502 lon:01231.1672
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.90
+$GPVTG mph:3.5
+$GPGGA lat:5540.2511 lon:01231.1681
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.05
+$GPVTG mph:3.8
+$GPGGA lat:5540.2518 lon:01231.1691
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.96
+$GPVTG mph:3.6
+$GPGGA lat:5540.2523 lon:01231.1695
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.54
+$GPVTG mph:2.9
+$GPGGA lat:5540.2526 lon:01231.1701
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.55
+$GPVTG mph:2.9
+$GPGGA lat:5540.2526 lon:01231.1703
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.30
+$GPVTG mph:2.4
+$GPGGA lat:5540.2529 lon:01231.1709
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.75
+$GPVTG mph:3.2
+$GPGGA lat:5540.2533 lon:01231.1712
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.14
+$GPVTG mph:2.1
+$GPGGA lat:5540.2534 lon:01231.1713
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.96
+$GPVTG mph:1.8
+$GPGGA lat:5540.2541 lon:01231.1717
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.09
+$GPVTG mph:2.0
+$GPGGA lat:5540.2550 lon:01231.1722
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.23
+$GPVTG mph:2.3
+$GPGGA lat:5540.2556 lon:01231.1725
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.35
+$GPVTG mph:2.5
+$GPGGA lat:5540.2561 lon:01231.1724
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.52
+$GPVTG mph:2.8
+$GPGGA lat:5540.2565 lon:01231.1721
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.30
+$GPVTG mph:2.4
+$GPGGA lat:5540.2572 lon:01231.1719
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.41
+$GPVTG mph:2.6
+$GPGGA lat:5540.2579 lon:01231.1719
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.18
+$GPVTG mph:2.2
+$GPGGA lat:5540.2582 lon:01231.1715
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.46
+$GPVTG mph:2.7
+$GPGGA lat:5540.2588 lon:01231.1710
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:3.7
+$GPGGA lat:5540.2593 lon:01231.1701
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.60
+$GPVTG mph:3.0
+$GPGGA lat:5540.2598 lon:01231.1703
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.91
+$GPVTG mph:3.5
+$GPGGA lat:5540.2603 lon:01231.1701
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.67
+$GPVTG mph:3.1
+$GPGGA lat:5540.2610 lon:01231.1694
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.27
+$GPVTG mph:2.4
+$GPGGA lat:5540.2612 lon:01231.1688
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.42
+$GPVTG mph:2.6
+$GPGGA lat:5540.2611 lon:01231.1672
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.81
+$GPVTG mph:3.4
+$GPGGA lat:5540.2614 lon:01231.1662
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.05
+$GPVTG mph:3.8
+$GPGGA lat:5540.2618 lon:01231.1653
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.00
+$GPVTG mph:3.7
+$GPGGA lat:5540.2623 lon:01231.1645
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.40
+$GPVTG mph:4.5
+$GPGGA lat:5540.2630 lon:01231.1635
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.21
+$GPVTG mph:4.1
+$GPGGA lat:5540.2636 lon:01231.1624
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.09
+$GPVTG mph:3.9
+$GPGGA lat:5540.2643 lon:01231.1624
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.04
+$GPVTG mph:3.8
+$GPGGA lat:5540.2648 lon:01231.1614
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.90
+$GPVTG mph:3.5
+$GPGGA lat:5540.2653 lon:01231.1601
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.70
+$GPVTG mph:3.1
+$GPGGA lat:5540.2656 lon:01231.1592
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.24
+$GPVTG mph:2.3
+$GPGGA lat:5540.2659 lon:01231.1580
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.81
+$GPVTG mph:3.4
+$GPGGA lat:5540.2663 lon:01231.1568
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.90
+$GPVTG mph:3.5
+$GPGGA lat:5540.2667 lon:01231.1559
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.68
+$GPVTG mph:3.1
+$GPGGA lat:5540.2671 lon:01231.1551
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.26
+$GPVTG mph:2.3
+$GPGGA lat:5540.2672 lon:01231.1545
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:2.0
+$GPGGA lat:5540.2675 lon:01231.1544
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.38
+$GPVTG mph:0.7
+$GPGGA lat:5540.2677 lon:01231.1543
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.33
+$GPVTG mph:0.6
+$GPGGA lat:5540.2677 lon:01231.1544
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.46
+$GPVTG mph:0.8
+$GPGGA lat:5540.2677 lon:01231.1547
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.40
+$GPVTG mph:0.7
+$GPGGA lat:5540.2677 lon:01231.1551
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.44
+$GPVTG mph:0.8
+$GPGGA lat:5540.2677 lon:01231.1553
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.26
+$GPVTG mph:0.5
+$GPGGA lat:5540.2678 lon:01231.1554
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.22
+$GPVTG mph:0.4
+$GPGGA lat:5540.2677 lon:01231.1556
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.32
+$GPVTG mph:0.6
+$GPGGA lat:5540.2676 lon:01231.1557
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.14
+$GPVTG mph:0.3
+$GPGGA lat:5540.2675 lon:01231.1557
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.16
+$GPVTG mph:0.3
+$GPGGA lat:5540.2670 lon:01231.1565
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.39
+$GPVTG mph:0.7
+$GPGGA lat:5540.2666 lon:01231.1570
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.43
+$GPVTG mph:0.8
+$GPGGA lat:5540.2660 lon:01231.1578
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.50
+$GPVTG mph:0.9
+$GPGGA lat:5540.2655 lon:01231.1592
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.66
+$GPVTG mph:1.2
+$GPGGA lat:5540.2651 lon:01231.1598
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.53
+$GPVTG mph:1.0
+$GPGGA lat:5540.2648 lon:01231.1601
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.45
+$GPVTG mph:0.8
+$GPGGA lat:5540.2646 lon:01231.1601
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.36
+$GPVTG mph:0.7
+$GPGGA lat:5540.2645 lon:01231.1601
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.26
+$GPVTG mph:0.5
+$GPGGA lat:5540.2646 lon:01231.1597
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.88
+$GPVTG mph:1.6
+$GPGGA lat:5540.2653 lon:01231.1588
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:2.8
+$GPGGA lat:5540.2659 lon:01231.1578
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.71
+$GPVTG mph:3.2
+$GPGGA lat:5540.2667 lon:01231.1566
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.15
+$GPVTG mph:4.0
+$GPGGA lat:5540.2675 lon:01231.1554
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.45
+$GPVTG mph:4.5
+$GPGGA lat:5540.2683 lon:01231.1542
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.32
+$GPVTG mph:4.3
+$GPGGA lat:5540.2688 lon:01231.1532
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.35
+$GPVTG mph:4.3
+$GPGGA lat:5540.2695 lon:01231.1523
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.11
+$GPVTG mph:3.9
+$GPGGA lat:5540.2699 lon:01231.1516
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.18
+$GPVTG mph:4.0
+$GPGGA lat:5540.2704 lon:01231.1508
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.19
+$GPVTG mph:4.1
+$GPGGA lat:5540.2709 lon:01231.1498
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.35
+$GPVTG mph:4.3
+$GPGGA lat:5540.2716 lon:01231.1489
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.54
+$GPVTG mph:4.7
+$GPGGA lat:5540.2723 lon:01231.1479
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.16
+$GPVTG mph:4.0
+$GPGGA lat:5540.2729 lon:01231.1470
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.22
+$GPVTG mph:4.1
+$GPGGA lat:5540.2736 lon:01231.1460
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.45
+$GPVTG mph:4.5
+$GPGGA lat:5540.2742 lon:01231.1455
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.51
+$GPVTG mph:4.6
+$GPGGA lat:5540.2750 lon:01231.1452
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.41
+$GPVTG mph:4.5
+$GPGGA lat:5540.2758 lon:01231.1450
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.83
+$GPVTG mph:5.2
+$GPGGA lat:5540.2767 lon:01231.1442
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.68
+$GPVTG mph:5.0
+$GPGGA lat:5540.2776 lon:01231.1433
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.23
+$GPVTG mph:4.1
+$GPGGA lat:5540.2783 lon:01231.1423
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.33
+$GPVTG mph:4.3
+$GPGGA lat:5540.2790 lon:01231.1417
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:4.1
+$GPGGA lat:5540.2800 lon:01231.1415
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.30
+$GPVTG mph:4.3
+$GPGGA lat:5540.2807 lon:01231.1409
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.31
+$GPVTG mph:4.3
+$GPGGA lat:5540.2812 lon:01231.1402
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.93
+$GPVTG mph:3.6
+$GPGGA lat:5540.2815 lon:01231.1389
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.21
+$GPVTG mph:4.1
+$GPGGA lat:5540.2820 lon:01231.1383
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.63
+$GPVTG mph:4.9
+$GPGGA lat:5540.2819 lon:01231.1361
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.26
+$GPVTG mph:4.2
+$GPGGA lat:5540.2821 lon:01231.1347
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.13
+$GPVTG mph:4.0
+$GPGGA lat:5540.2823 lon:01231.1334
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.53
+$GPVTG mph:2.8
+$GPGGA lat:5540.2819 lon:01231.1312
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.22
+$GPVTG mph:4.1
+$GPGGA lat:5540.2820 lon:01231.1296
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):2.19
+$GPVTG mph:4.1
+$GPGGA lat:5540.2820 lon:01231.1279
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.70
+$GPVTG mph:5.0
+$GPGGA lat:5540.2823 lon:01231.1259
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.34
+$GPVTG mph:4.3
+$GPGGA lat:5540.2822 lon:01231.1243
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.18
+$GPVTG mph:4.0
+$GPGGA lat:5540.2822 lon:01231.1224
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.05
+$GPVTG mph:3.8
+$GPGGA lat:5540.2823 lon:01231.1214
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.26
+$GPVTG mph:2.3
+$GPGGA lat:5540.2822 lon:01231.1205
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.60
+$GPVTG mph:3.0
+$GPGGA lat:5540.2821 lon:01231.1193
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.32
+$GPVTG mph:2.5
+$GPGGA lat:5540.2821 lon:01231.1187
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.55
+$GPVTG mph:1.0
+$GPGGA lat:5540.2823 lon:01231.1182
+$GPGSA channel1:01
+empty
+empty
+$GPRMC speed over ground (knots):0.59
+$GPVTG mph:1.1
+$GPGGA lat:5540.2826 lon:01231.1173
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.59
+$GPVTG mph:1.1
+$GPGGA lat:5540.2831 lon:01231.1168
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.90
+$GPVTG mph:1.7
+$GPGGA lat:5540.2830 lon:01231.1171
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.14
+$GPVTG mph:0.3
+$GPGGA lat:5540.2826 lon:01231.1174
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.47
+$GPVTG mph:2.7
+$GPGGA lat:5540.2822 lon:01231.1179
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.51
+$GPVTG mph:2.8
+$GPGGA lat:5540.2823 lon:01231.1177
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.62
+$GPGGA lat:5540.2824 lon:01231.1182
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.92
+$GPVTG mph:1.7
+$GPGGA lat:5540.2829 lon:01231.1180
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.41
+$GPVTG mph:2.6
+$GPGGA lat:5540.2832 lon:01231.1172
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.96
+$GPVTG mph:1.8
+$GPGGA lat:5540.2839 lon:01231.1167
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.64
+$GPVTG mph:1.2
+$GPGGA lat:5540.2837 lon:01231.1157
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.51
+$GPVTG mph:0.9
+$GPGGA lat:5540.2836 lon:01231.1151
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.19
+$GPVTG mph:0.3
+$GPGGA lat:5540.2841 lon:01231.1145
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.03
+$GPVTG mph:1.9
+$GPGGA lat:5540.2842 lon:01231.1148
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.28
+$GPVTG mph:2.4
+$GPGGA lat:5540.2842 lon:01231.1152
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.35
+$GPVTG mph:2.5
+$GPGGA lat:5540.2845 lon:01231.1157
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.45
+$GPVTG mph:2.7
+$GPGGA lat:5540.2846 lon:01231.1158
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.77
+$GPVTG mph:1.4
+$GPGGA lat:5540.2845 lon:01231.1170
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.06
+$GPVTG mph:2.0
+$GPGGA lat:5540.2852 lon:01231.1170
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.76
+$GPVTG mph:3.3
+$GPGGA lat:5540.2859 lon:01231.1163
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.69
+$GPVTG mph:3.1
+$GPGGA lat:5540.2858 lon:01231.1148
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPRMC speed over ground (knots):1.90
+$GPVTG mph:3.5
+$GPGGA lat:5540.2864 lon:01231.1137
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.75
+$GPVTG mph:3.2
+$GPGGA lat:5540.2866 lon:01231.1127
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.57
+$GPVTG mph:2.9
+$GPGGA lat:5540.2869 lon:01231.1118
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.25
+$GPVTG mph:2.3
+$GPGGA lat:5540.2869 lon:01231.1099
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.94
+$GPVTG mph:1.7
+$GPGGA lat:5540.2867 lon:01231.1075
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.32
+$GPVTG mph:2.4
+$GPGGA lat:5540.2869 lon:01231.1070
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.82
+$GPVTG mph:1.5
+$GPGGA lat:5540.2870 lon:01231.1062
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.69
+$GPVTG mph:1.3
+$GPGGA lat:5540.2871 lon:01231.1053
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.49
+$GPVTG mph:0.9
+$GPGGA lat:5540.2873 lon:01231.1044
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.62
+$GPVTG mph:1.1
+$GPGGA lat:5540.2876 lon:01231.1039
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.34
+$GPVTG mph:0.6
+$GPGGA lat:5540.2881 lon:01231.1033
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.53
+$GPVTG mph:1.0
+$GPGGA lat:5540.2884 lon:01231.1027
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.49
+$GPVTG mph:2.8
+$GPGGA lat:5540.2890 lon:01231.1030
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.53
+$GPVTG mph:2.8
+$GPGGA lat:5540.2896 lon:01231.1034
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.91
+$GPVTG mph:1.7
+$GPGGA lat:5540.2903 lon:01231.1032
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):0.87
+$GPVTG mph:1.6
+$GPGGA lat:5540.2909 lon:01231.1035
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.85
+$GPVTG mph:1.6
+$GPGGA lat:5540.2915 lon:01231.1031
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.56
+$GPVTG mph:1.0
+$GPGGA lat:5540.2919 lon:01231.1031
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.59
+$GPVTG mph:1.1
+$GPGGA lat:5540.2923 lon:01231.1032
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.72
+$GPVTG mph:1.3
+$GPGGA lat:5540.2926 lon:01231.1028
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPRMC speed over ground (knots):0.91
+$GPVTG mph:1.7
+$GPGGA lat:5540.2930 lon:01231.1026
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.00
+$GPVTG mph:1.8
+$GPGGA lat:5540.2933 lon:01231.1020
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.99
+$GPVTG mph:1.8
+$GPGGA lat:5540.2938 lon:01231.1019
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.88
+$GPVTG mph:1.6
+$GPGGA lat:5540.2943 lon:01231.1022
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.88
+$GPVTG mph:1.6
+$GPGGA lat:5540.2951 lon:01231.1022
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.02
+$GPVTG mph:1.9
+$GPGGA lat:5540.2957 lon:01231.1023
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.66
+$GPVTG mph:3.1
+$GPGGA lat:5540.2964 lon:01231.1021
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.62
+$GPVTG mph:3.0
+$GPGGA lat:5540.2971 lon:01231.1022
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.23
+$GPVTG mph:2.3
+$GPGGA lat:5540.2979 lon:01231.1022
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.07
+$GPVTG mph:2.0
+$GPGGA lat:5540.2985 lon:01231.1021
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.58
+$GPVTG mph:2.9
+$GPGGA lat:5540.2991 lon:01231.1019
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.05
+$GPVTG mph:1.9
+$GPGGA lat:5540.2996 lon:01231.1016
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.75
+$GPVTG mph:3.2
+$GPGGA lat:5540.3002 lon:01231.1009
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.97
+$GPVTG mph:3.6
+$GPGGA lat:5540.3010 lon:01231.1004
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):2.22
+$GPVTG mph:4.1
+$GPGGA lat:5540.3017 lon:01231.0998
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPRMC speed over ground (knots):1.80
+$GPVTG mph:3.3
+$GPGGA lat:5540.3024 lon:01231.0998
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.66
+$GPVTG mph:3.1
+$GPGGA lat:5540.3039 lon:01231.0999
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.50
+$GPVTG mph:2.8
+$GPGGA lat:5540.3048 lon:01231.0995
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.74
+$GPVTG mph:3.2
+$GPGGA lat:5540.3053 lon:01231.0992
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.82
+$GPVTG mph:3.4
+$GPGGA lat:5540.3056 lon:01231.0995
+$GPGSA channel1:01
+$GPGSV num:1 count:3
+$GPGSV num:2 count:3
+$GPGSV num:3 count:3
+$GPVTG mph:2.3
+$GPGGA lat:5540.3067 lon:01231.0999
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.55
+$GPVTG mph:2.9
+$GPGGA lat:5540.3074 lon:01231.0999
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):1.09
+$GPVTG mph:2.0
+$GPGGA lat:5540.3077 lon:01231.0998
+$GPGSA channel1:01
+$GPRMC speed over ground (knots):0.29
+$GPVTG mph:0.5
+$GPGGA lat:5540.3078 lon:01231.0998
+$GPGSA channel1:01
